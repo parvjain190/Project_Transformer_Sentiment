@@ -1,5 +1,5 @@
-# Modeling Temporal Evolution of Sentiment in IMDb Reviews[cite: 1]
-### Using Transformer-Based Time Series Architectures[cite: 1]
+# Modeling Temporal Evolution of Sentiment in IMDb Reviews
+### Using Transformer-Based Time Series Architectures
 
 ## 📌 Overview
 This project implements a **Transformer encoder** with **positional encoding** using TensorFlow and Keras to model how sentiment evolves across the temporal axis of each IMDb review[cite: 1]. Key upgrades over a plain LSTM include capturing long-range temporal dependencies and treating token positions as a time series[cite: 1]. 
